@@ -7,7 +7,7 @@ prerequisites
 install libcap
 sudo apt-get install libpcap-dev
 
-While Complilation use -lpcap to say the compiler that you are goning to use pcal lib 
+While Complilation use -lpcap to say the compiler that you are goning to use pcap lib 
 
 */
 #include<stdio.h>
